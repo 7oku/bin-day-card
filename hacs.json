@@ -1,0 +1,6 @@
+{
+  "name": "Bin Day Card",
+  "filename": "bin-day-card.js",
+  "render_readme": true,
+  "homeassistant": "2024.8.0"
+}
