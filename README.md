@@ -110,6 +110,14 @@ The idea for the layout came from the waste bins in a dashboard shared on Reddit
 ([post](https://www.reddit.com/r/homeassistant/comments/1xppcvd/our_dashboard_from_germany_energy_carousel_waste/)).
 Thanks for the inspiration: the design and the code of this card were developed independently from that starting point.
 
+## More cards
+
+Other cards in the same style:
+
+- [Battery Check Card](https://github.com/AldebaranPrimo/battery-check-card): finds every battery in your home and shows which ones to replace now.
+- [Appliance Energy Card](https://github.com/AldebaranPrimo/appliance-energy-card): what is running on your smart plugs, with power and energy per day.
+- [Tractive Pet Card](https://github.com/AldebaranPrimo/tractive-pet-card): your pet's activity goal, collar and history from the Tractive integration.
+
 ## Licence
 
 [MIT](LICENSE)
