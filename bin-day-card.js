@@ -39,7 +39,7 @@ const STRINGS = {
     title: "Abfallabholung",
     today: (bins) => `Abholung heute: ${bins}`,
     todaySub: "Abholung ist morgens - falls noch nicht erledigt, jetzt rausstellen.",
-    tonight: (bins) => `Heute abend rausstellen: ${bins}`,
+    tonight: (bins) => `Heute Abend rausstellen: ${bins}`,
     tonightSub: (day) => `Abholung morgen, ${day}.`,
     nothing: "Heute Abend nichts herauszustellen",
     nextSub: (bins, day, n) => `Nächste Abholung: ${bins}, ${day} (in ${n} ${n === 1 ? 'Tag' : 'Tagen'})`,
